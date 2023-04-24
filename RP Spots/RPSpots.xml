@@ -30,6 +30,10 @@
 
 	<POIs>
 
+		<POI MapID="15" xpos="-533.589" ypos="35.3263" zpos="456.739" type="rp.mk.walk" GUID="ribCKtvL/EevlHk0ATalUA=="/>
+		<POI MapID="15" xpos="-417.628" ypos="27.7601" zpos="361.9" type="rp.mk.farm" GUID="pdXSh4+0F0O91mBPQAd8pQ=="/>
+		<POI MapID="15" xpos="-470.685" ypos="21.2425" zpos="370.572" type="rp.mk.fort" GUID="UCFtqhuIb0mhiYcd3szxaw=="/>
+		<POI MapID="15" xpos="-597.244" ypos="64.3939" zpos="594.508" type="rp.mk.walk" GUID="2gyHLd7p6EKtp7eUD6w/rQ=="/>
 		<POI MapID="34" xpos="-119.253" ypos="1.07948" zpos="-975.78" type="rp.mk.village" GUID="TDBn5NtUzEm0JQAnhRfiZw=="/>
 		<POI MapID="34" xpos="29.3518" ypos="27.3946" zpos="-904.122" type="rp.mk.walk" GUID="Zhwyl5OCp0+fz2+DSnXzjg=="/>
 		<POI MapID="34" xpos="169.434" ypos="0.65999" zpos="-913.372" type="rp.mk.farm" GUID="/WCGfXtyHEqGN1WYHvFzKQ=="/>
