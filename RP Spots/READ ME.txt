@@ -6,16 +6,16 @@
  |_|  \_\_|      |_____/|_|     \____/  |_| |_____/
 
 
-This started out a personal markerpack while I was doing map completion. Now it's this.
+This started out a personal markerpack while I was doing map completion. Now it's 650+ markers.
 
 
 This is meant to be general guide and not hard fact. 
 I tried checking to be sure there were no events in the areas marked but it's impossible to catch everything.
 Please examine areas before putting on a big event at these spots. I'm not responsible for legendary mobs 
 spawning in during your market event. lol
-Also, tell me if a legendary mob spawns during your market event. lol
+Also, tell me if a legendary mob spawns during your market event. I'll remove it from the pack. lol
 
-
+Please thanks to Nyx for helping with testing.
 ______________________________________________________________
                   GW2 TacO Install
 1) Copy&Paste RP_Spots.taco in your TacO's POIs folder
